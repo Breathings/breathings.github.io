@@ -10,9 +10,9 @@ baseurl: /
 
 # Website info
 title: BreaThings
-description: The professional publishing platform
+description: Breathe Better, with BULO
 cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
+logo: assets/images/ci_horizon_white.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 CNAME: #add cname for website to be created
@@ -22,8 +22,9 @@ navigation: True # show the navbar links
 subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-twitter: tryghost # replace by your username
-facebook: ghost # replace by your username
+#twitter: tryghost # replace by your username
+facebook: BreaThings-100939504789008 # replace by your username
+instagram: bulo.media
 
 # Disqus
 disqus: False
